@@ -1,21 +1,20 @@
 # Hi there, I'm Manibhushan Kumar Singh! 👋
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/manibhushan-kumar-singh-287426317/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:wtcamanibhushan20@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ### 🚀 About Me
-I am a **Software Engineering enthusiast** and an **Electronics & Communication Engineering** student at **NIT Patna ('26)**. I am passionate about building scalable web applications and exploring the intersection of software and hardware. 
+I am a **Software Engineering enthusiast** and an **Electronics & Communication Engineering** student at **NIT Patna ('26)**. I am passionate about building scalable web applications and exploring new technologies.
 
 - 🎓 **Incoming Digital Specialist Engineer @ Infosys**
 - ⚡ **Currently learning:** AI Agents, Cloud Computing (DevOps), and advanced System Design.
 - 🛠️ **Focusing on:** High-performance Full-Stack applications and real-time communication tools.
-- 🤖 **Fun Fact:** I’ve built everything from real-time video interview platforms to autonomous navigation robots.
 
 ---
 
@@ -33,18 +32,7 @@ I am a **Software Engineering enthusiast** and an **Electronics & Communication 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-**Embedded & IoT**
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-blue?style=for-the-badge)
 
----
-
-### 🌟 Featured Projects
-
-* **[InterviewBook](https://github.com/manibhushan20/InterviewBook):** A full-stack video interview platform with real-time calling and a multi-language code editor.
-* **[Code-Sense](https://github.com/manibhushan20/Code-Sense):** An AI-powered code review tool using the Gemini API to analyze and optimize code.
-* **Real-time Chat App:** A bidirectional messaging application built with Socket.io and the MERN stack.
-* **Autonomous Navigation Robot:** A hardware-software integration project using Arduino for obstacle avoidance and line following.
 
 ---
 
