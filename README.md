@@ -38,8 +38,8 @@ I am a **Software Engineering enthusiast** and an **Electronics & Communication 
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manibhushan20&show_icons=true&theme=radical" alt="Manibhushan's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manibhushan20&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.shion.dev/api?username=manibhushan20&show_icons=true&theme=radical" alt="Manibhushan's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=manibhushan20&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
 
 ---
