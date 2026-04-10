@@ -10,11 +10,11 @@
 </p>
 
 ### 🚀 About Me
-I am a **Software Engineering enthusiast** and an **Electronics & Communication Engineering** student at **NIT Patna ('26)**. I am passionate about building scalable web applications and exploring new technologies.
+I am a **Software Engineering enthusiast** and an **ECE** student at **NIT Patna ('26)**. I am passionate about building scalable web applications and exploring new technologies.
 
 - 🎓 **Incoming Digital Specialist Engineer @ Infosys**
 - ⚡ **Currently learning:** AI Agents, Cloud Computing (DevOps), and advanced System Design.
-- 🛠️ **Focusing on:** High-performance Full-Stack applications and real-time communication tools.
+- 🛠️ **Focusing on:** High-performance learning of emerging techs and refining my skills in Full-Stack development and AI.
 
 ---
 
