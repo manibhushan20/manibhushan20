@@ -1,48 +1,62 @@
-# Hi there, I'm Manibhushan Kumar Singh! 👋
+<h1 align="center">Hi there, I'm Manibhushan Kumar Singh 👋</h1>
+<h3 align="center">Software Engineering Enthusiast | ECE @ NIT Patna '26 | Full-Stack & AI Learner</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/manibhushan-kumar-singh-287426317/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:wtcamanibhushan20@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/manibhushan20?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-### 🚀 About Me
-I am a **Software Engineering enthusiast** and an **ECE** student at **NIT Patna ('26)**. I am passionate about building scalable web applications and exploring new technologies.
+---
 
-- 🎓 **Incoming Digital Specialist Engineer @ Infosys**
-- ⚡ **Currently learning:** AI Agents, Cloud Computing (DevOps), and advanced System Design.
-- 🛠️ **Focusing on:** High-performance learning of emerging techs and refining my skills in Full-Stack development and AI.
+### ✨ About Me
+
+- 🎓 ECE student at **NIT Patna ('26)**
+- 💼 **Incoming Digital Specialist Engineer @ Infosys**
+- 🚀 Passionate about **software engineering, web development, AI agents, and cloud/DevOps**
+- 🧠 Focused on building strong problem-solving and system design skills
+- ⚡ Always exploring new technologies and improving every day
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Tech Stack
 
-**Languages & Core CS**
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Data Structures](https://img.shields.io/badge/DSA-Advanced-orange?style=for-the-badge)
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/DSA-Advanced-orange?style=for-the-badge" />
+</p>
 
-**Web Development (MERN)**
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=manibhushan20&show_icons=true&theme=radical" alt="Manibhushan's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=manibhushan20&layout=compact&theme=radical" alt="Top Languages" height="150" />
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ---
 
-### 📈 Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manibhushan20&theme=radical)
+
+
+### 🚀 Currently Learning
+
+- AI Agents
+- Cloud Computing / DevOps
+- Advanced System Design
+- Full-Stack Development
+
+---
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/manibhushan-kumar-singh-287426317/" target="_blank">LinkedIn</a> •
+  <a href="mailto:wtcamanibhushan20@gmail.com">Email</a>
+</p>
