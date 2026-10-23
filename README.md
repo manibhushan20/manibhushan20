@@ -18,7 +18,7 @@
 ### ✨ About Me
 
 - 🎓 ECE student at **NIT Patna ('26)**
-- 💼 **Incoming Digital Specialist Engineer @ Infosys**
+- 💼 **Digital Specialist Engineer @ Infosys**
 - 🚀 Passionate about **software engineering, web development, AI agents, and cloud/DevOps**
 - 🧠 Focused on building strong problem-solving and system design skills
 - ⚡ Always exploring new technologies and improving every day
@@ -50,7 +50,7 @@
 - AI Agents
 - Cloud Computing / DevOps
 - Advanced System Design
-- Full-Stack Development
+- Full-Stack Development(Java, SpringBoot, Angular)
 
 ---
 
